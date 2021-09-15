@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<!-- Popper JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+    <img style="border-image-width: auto;" src="https://www.google.com/imgres?imgurl=https%3A%2F%2F2yrh403fk8vd1hz9ro2n46dd-wpengine.netdna-ssl.com%2Fwp-content%2Fuploads%2F2020%2F07%2F2021-Honda-CRF450X-First-Look-off-road-trail-motorcycle.jpg&imgrefurl=https%3A%2F%2Fultimatemotorcycling.com%2F2020%2F07%2F17%2F2021-honda-crf450rl-and-crf450x-first-look-eco-friendly%2F&tbnid=v97mkUyOHycL5M&vet=12ahUKEwjx86fYoNvyAhVLHVMKHdkbA-EQMygKegUIARDEAQ..i&docid=8MOZutfORXP6xM&w=1620&h=1080&q=honda%20450x%20hp&ved=2ahUKEwjx86fYoNvyAhVLHVMKHdkbA-EQMygKegUIARDEAQ" class="img-thumbnail" alt="Cinque Terre">
+
+<h1 style="text-align: center;"> My honda 450cc trail bike review</h1>
+<p>This bike is not for beginners, it is tall and has alot of power coming in at 45hp. This bike is the biggest bike available for trail riding and isn't much different from a 450cc competion bike. The positives of this bike is that it is kick or electric start so that you are able to start even when the battery is died. It is also equipped with a headlight for fun anytime of the day. The suspenison is competion style so the ride will not be as smooth as the smaller trail bikes. The enegine is lidquid cooled so if the line busts from a crash well, you're screwed. Overall this is a nice bike for exeperienced riders.    </p>
+<h2 style="text-align: center;"> My rating</h2>
+<p2 sytle="text-align: center;">8.5/10 </p2>
+</body>
+</html>
